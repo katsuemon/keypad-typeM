@@ -3,8 +3,6 @@
 
 #pragma once
 
-#define PRODUCT MPAD01
-
 #define DYNAMIC_KEYMAP_LAYER_COUNT 8
 #define OLED_FONT_H  "lib/glcdfont.c"
 
