@@ -4,7 +4,6 @@
 #pragma once
 
 #define DYNAMIC_KEYMAP_LAYER_COUNT 8
-#define OLED_FONT_H  "lib/glcdfont.c"
 
 #define WS2812_DI_PIN B4
 #define RGBLIGHT_LAYERS
@@ -14,4 +13,4 @@
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_LIMIT_VAL 64
 
-#define TAPPING_TERM 200
+#define TAPPING_TERM 400

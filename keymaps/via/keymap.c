@@ -42,11 +42,11 @@ const rgblight_segment_t PROGMEM rgb_layer_2nd[] = RGBLIGHT_LAYER_SEGMENTS(
 );
 
 const rgblight_segment_t PROGMEM rgb_layer_3rd[] = RGBLIGHT_LAYER_SEGMENTS(
-    {0, 1, HSV_PURPLE},{1, 4, HSV_GREEN}
+    {0, 1, HSV_PURPLE},{1, 4, HSV_SPRINGGREEN}
 );
 
 const rgblight_segment_t PROGMEM rgb_layer_4th[] = RGBLIGHT_LAYER_SEGMENTS(
-    {0, 1, HSV_PURPLE},{1, 4, HSV_BLUE}
+    {0, 1, HSV_PURPLE},{1, 4, HSV_AZURE}
 );
 
 const rgblight_segment_t PROGMEM rgb_layer_5th[] = RGBLIGHT_LAYER_SEGMENTS(
