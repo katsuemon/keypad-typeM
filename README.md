@@ -6,10 +6,12 @@
 
 キースイッチはchoc v2に対応しています。
 
-※OLED用の端子がありますがatmega32u4直載せ基板初挑戦の代物なのと動作未確認で配線があっているか未テストなので使わないでください
+※OLED用の端子がありますが動作未確認で配線があっているか未テストなので使わないでください
 　最悪MCUが破損する可能性があります。
+　なにぶんatmega32u4直載せ設計は初めてなので合っているか自信がありません。
 
-アクリルケースのデータは![こちら](https://github.com/katsuemon/keypad-typeM/blob/main/casedata)2mm厚用と3mm厚用のデータがあり3枚のサンドイッチ構造です。
+・アクリルケースのデータは![こちら](https://github.com/katsuemon/keypad-typeM/blob/main/casedata)
+　2mm厚用と3mm厚用のデータがあり3枚のサンドイッチ構造です。
 
 
 
