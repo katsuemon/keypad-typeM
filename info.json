@@ -1,6 +1,6 @@
 {
     "manufacturer": "katsuemon",
-    "keyboard_name": "emon/mpad01",
+    "keyboard_name": "mpad01",
     "maintainer": "katsuemon",
     "bootloader": "atmel-dfu",
     "diode_direction": "COL2ROW",
