@@ -14,5 +14,6 @@
 ・アクリルケースのデータは![こちら](https://github.com/katsuemon/keypad-typeM/blob/main/casedata)
 　2mm厚用と3mm厚用のデータがあり3枚のサンドイッチ構造です。
 
-・![ReMAP]https://remap-keys.app/に対応していますのでキーのマッピングをWebUIで自由に変更可能です。
+・![ReMAP]https://remap-keys.app/
+ に対応していますのでキーのマッピングをWebUIで自由に変更可能です。
 
